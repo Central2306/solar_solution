@@ -1,0 +1,1 @@
+# OS generated files&#10;.DS_Store&#10;Thumbs.db&#10;&#10;# Logs&#10;*.log&#10;&#10;# FontAwesome local files (too large, use CDN)&#10;fontawesome-free-7.1.0-web/&#10;&#10;# IDE&#10;.vscode/&#10;*.swp&#10;*.swo&#10;&#10;# Images (optional, if too large)&#10;**/images/*&#10;

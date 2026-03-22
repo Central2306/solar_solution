@@ -1,0 +1,1 @@
+# GitHub Push Fix Progress&#10;&#10;## Pending:&#10;- [ ] Create .gitignore (exclude FontAwesome)&#10;- [ ] Create README.md&#10;- [ ] Fix Git credentials (user step)&#10;- [ ] Test git push&#10;&#10;## Done:&#10;
